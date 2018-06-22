@@ -7,6 +7,9 @@ Curated list of useful GSoC resources
 ## Proposal guidance
 
 ## Student proposals
+
+### 2018
+
 [CLocal Azure - Project Proposal GSoC 2018](https://github.com/cloudlibz/clocal-azure/wiki/Project-Proposal---GSoC-2018)
 ## Misc
 
