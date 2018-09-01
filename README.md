@@ -14,6 +14,12 @@ Curated list of useful GSoC resources
 ### 2018
 
 [CLocal Azure - Project Proposal GSoC 2018](https://github.com/cloudlibz/clocal-azure/wiki/Project-Proposal---GSoC-2018)
+
+## Past projects
+
+- [2016 projects](https://summerofcode.withgoogle.com/archive/2016/projects/)
+- [2017 projects](https://summerofcode.withgoogle.com/archive/2017/projects/)
+
 ## Misc
 
 ## License
