@@ -2,6 +2,12 @@
 
 Curated list of useful GSoC resources
 
+[Intro to GSoC](https://www.youtube.com/watch?v=QVnN34YGz8s)
+
+## How to apply
+
+- [Google Summer of Code: Student Application Process](https://www.youtube.com/watch?v=s4IIBU6tgF4)
+
 ## Past organizations
 
 ## Proposal guidance
@@ -23,6 +29,10 @@ Curated list of useful GSoC resources
 (https://summerofcode.withgoogle.com/projects/)
 
 ## Misc
+
+- [So You Want to Be a Google Summer of Code Student?](https://www.youtube.com/watch?v=YN7uGCg5vLg)
+
+## Mentor summit
 
 ## License
 
