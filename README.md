@@ -25,8 +25,7 @@ Curated list of useful GSoC resources
 
 - [2016 projects](https://summerofcode.withgoogle.com/archive/2016/projects/)
 - [2017 projects](https://summerofcode.withgoogle.com/archive/2017/projects/)
-- [2018 projects]
-(https://summerofcode.withgoogle.com/projects/)
+- [2018 projects](https://summerofcode.withgoogle.com/projects/)
 
 ## Misc
 
