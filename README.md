@@ -13,7 +13,7 @@ Curated list of useful GSoC resources
 ## Proposal guidance
 
 - Get started - https://summerofcode.withgoogle.com/get-started/
-- How to apply for Google Summer of Code - https://medium.com/@i.oleks/how-to-apply-for-google-summer-of-code-95c1bfcd41a5
+- How to apply for Google Summer of Code - https://goo.gl/BVQLZu
 
 ## Student proposals
 
